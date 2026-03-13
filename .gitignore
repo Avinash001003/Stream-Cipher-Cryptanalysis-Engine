@@ -1,0 +1,58 @@
+# Compiled binaries and executables
+*.exe
+*.out
+*.o
+*.so
+*.dylib
+*.a
+*.lib
+
+# Build directories
+build/
+cmake-build-debug/
+cmake-build-release/
+dist/
+bin/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# Debug and profiling
+*.dSYM/
+*.su
+*.gch
+*.pch
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.log
+
+# OS-specific
+Thumbs.db
+.DS_Store
+
+# CMake
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+CTestTestfile.cmake
+
+# Test outputs
+results/
+test_output/
+*.csv.bak
