@@ -1,5 +1,7 @@
 # Heuristic Search for Algebraic Annihilators in GF(2): A Cryptanalytic Study
 
+**GitHub Repository:** https://github.com/Avinash001003/Stream-Cipher-Cryptanalysis-Engine
+
 ## Abstract
 
 This project presents a computational framework for discovering low-degree algebraic annihilators in Boolean functions—a critical security parameter in stream cipher design. Using metaheuristic optimization techniques (Monte Carlo sampling and Genetic Algorithms), we circumvent the computational intractability of exhaustive algebraic immunity analysis. The implementation leverages modern C++17 for computational efficiency while addressing the fundamental challenge of optimization in discrete, non-convex spaces over Galois Fields.
@@ -380,13 +382,15 @@ If you use this framework in your research, please cite as follows:
 ```bibtex
 @software{annihilator_search_2026,
   title={Heuristic Search for Algebraic Annihilators in Boolean Functions via Genetic Algorithms},
-  author={Avina},
+  author={Avinash Kumar Thakur},
   year={2026},
-  url={https://github.com/yourusername/annihilator_search}
+  url={https://github.com/Avinash001003/Stream-Cipher-Cryptanalysis-Engine}
 }
 ```
 
 ---
+
+**Author:** Avinash Kumar Thakur
 
 **Last Updated:** March 2026  
 **Language:** C++17 | **Build Tool:** g++ | **Optimization:** -O3
